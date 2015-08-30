@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Title: HTTPFuzz 
+# Title: burp2sulley 
 # Author: lucyoa
 
 import sys
